@@ -1,0 +1,19 @@
+MONGO ATLAS
+
+admin               //user
+tezQrwKMfKMivTbr //password
+
+
+
+
+mongodb+srv://admin:<password>@red-bicicletas.cneqc.mongodb.net/test
+//usar este
+mongodb+srv://admin:tezQrwKMfKMivTbr@red-bicicletas.cneqc.mongodb.net/test
+
+
+//conectar aplicacion
+mongodb+srv://admin:<password>@red-bicicletas.cneqc.mongodb.net/<dbname>?retryWrites=true&w=majority
+
+
+//sendgrid
+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
